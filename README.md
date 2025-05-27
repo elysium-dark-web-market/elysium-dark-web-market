@@ -4,11 +4,11 @@ Looking for the **Elysium dark web market**? As one of the most secure anonymous
 
 ## 🔐 Official Elysium Dark Web Market Portal
 
-http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion
+http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
-[<img src="/asset/front.webp" alt="Official Elysium dark web market entrance">](http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion)
+[<img src="/media/operation.webp" alt="Official Elysium dark web market entrance">](http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion)
 
-<a href="http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion"><img src="/asset/divide.webp" alt="Elysium dark web market interface preview" style="max-width: 100%;"></a>
+<a href="http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion"><img src="/media/look.webp" alt="Elysium dark web market interface preview" style="max-width: 100%;"></a>
 
 *(For research purposes only. Links updated monthly.)*
 
@@ -32,7 +32,7 @@ http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion
 - **Onion Search Engines** (notTor, Ahmia)
 - **PGP-Signed Updates** from @ElysiumNews@
 - **Mirror Network**:  
-  http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion
+  http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion
 
 *(Pro Tip: Always cross-check 3 sources before using any link)*
 
@@ -56,7 +56,7 @@ Before accessing the Elysium dark web market:
 
         Burner PGP keys per session
 
-<a href="http://elyszvwzxpyvwb4b7qqcyrbm7plmdicwjgot5ncgkdkvhplojmmftfqd.onion"><img src="/asset/record.webp" alt="Secure login to Elysium dark web market" style="max-width: 100%;"></a>
+<a href="http://6ekltb4rr7br2gjqixjwiymwvg7mmhf7et7622vto2f6oijd66encwqd.onion"><img src="/media/prefs.webp" alt="Secure login to Elysium dark web market" style="max-width: 100%;"></a>
 
 📜 Legal Disclaimer
 
