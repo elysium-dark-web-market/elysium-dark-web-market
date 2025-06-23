@@ -70,4 +70,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update:  06/21/2025 08-47-42 url is now operational and clickable
+
+
+Update:  06/23/2025 08-20-39 Fixed broken links in debugging resources
