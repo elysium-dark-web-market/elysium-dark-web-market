@@ -74,4 +74,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update: Sitemap URLs
+
+
+Update: Internal navigation
