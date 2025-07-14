@@ -80,4 +80,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update:  07 July
+
+
+Update:  14.07.2025 Fixed broken image references in docs
