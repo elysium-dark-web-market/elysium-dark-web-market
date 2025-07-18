@@ -82,4 +82,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update:  14.07.2025 Fixed broken image references in docs
+
+
+Update:  18 July Repaired broken links in installation guide
