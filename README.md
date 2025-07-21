@@ -84,4 +84,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update:  18 July Repaired broken links in installation guide
+
+
+Update:  21 July 2025 url is operational
