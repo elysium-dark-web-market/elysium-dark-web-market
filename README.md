@@ -90,4 +90,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update:  04.08.2025 Fixed broken url
+
+
+Update:  13 August Fixed broken link, now live
