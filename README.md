@@ -94,4 +94,6 @@ This educational resource discusses darknet technologies. Accessing certain serv
 
 
 
-Update:  08/19/2025 Link corrected
+
+
+Update:  Saturday 23 August 2025 url is active and operational
